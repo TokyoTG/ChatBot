@@ -1,0 +1,8 @@
+{
+    "greeting":"",
+    "first_question": "Can i know your name",
+    "questions":[{
+        "id":0,
+        "question": "Hello there, I'm TokyoBot"
+    }]
+}
